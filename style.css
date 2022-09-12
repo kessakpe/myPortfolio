@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.aboutme{
+    height: 20em;
+    padding-top: 2em;
+}
+.navLink:hover{
+    color: yellow;
+    z-index: 1;
+}
